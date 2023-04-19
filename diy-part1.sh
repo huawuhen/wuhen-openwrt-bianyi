@@ -18,3 +18,4 @@ echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.de
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 # zidingyi chajian
 git clone https://github.com/sbwml/luci-app-alist package/lean/alist
+git clone https://github.com/Zxilly/UA2F.git package/UA2F
